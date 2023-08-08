@@ -30,8 +30,6 @@ int main() {
 		printf("Enter the first number: ");
 		scanf("%lf", &f_num);
 		
-		printf("%lf", f_num);
-
 		double l_num;
 		printf("Enter the second number: ");
 		scanf("%lf", &l_num);
